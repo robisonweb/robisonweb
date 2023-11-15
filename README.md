@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robisonweb&label=Profile%20views&color=0e75b6&style=flat" alt="robisonweb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robisonweb" alt="robisonweb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/robisonweb" target="blank"><img src="https://img.shields.io/twitter/follow/robisonweb?logo=twitter&style=for-the-badge" alt="robisonweb" /></a> </p>
 
-- 🔭 I’m currently working on [TJAC](https://www.tjac.jus.br/)
+- 🔭 I’m currently working on [ 💼 TJAC ⚖️](https://www.tjac.jus.br/)
 
 - 👯 I’m looking to collaborate on [Wordpress](https://github.com/WordPress/wordpress-develop/)
 
@@ -17,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/robisonweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="robisonweb" height="30" width="40" /></a>
+
 <a href="https://twitter.com/robisonweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robisonweb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robisonweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robisonweb" height="30" width="40" /></a>
 <a href="https://instagram.com/robisonweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robisonweb" height="30" width="40" /></a>
